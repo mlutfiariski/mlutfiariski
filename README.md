@@ -2,21 +2,21 @@
 
 ### Github Stats 📈
 
-<a href="https://github-readme-stats.vercel.app/api?username=mlutfiariski&show_icons=true&include_all_commits=true&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mlutfiariski&show_icons=true&include_all_commits=true&theme=dark" alt="Andri's github stats">
+<a href="https://github-readme-stats.vercel.app/api?username=mlutfiariski&show_icons=true&include_all_commits=true&theme=light">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mlutfiariski&show_icons=true&include_all_commits=true&theme=light" alt="Andri's github stats">
 </a>
 
 <br>
 <br>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mlutfiariski&layout=compact&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlutfiariski&layout=compact&theme=dark">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mlutfiariski&layout=compact&theme=light">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlutfiariski&layout=compact&theme=light">
 </a>
 
 ### Top Repositories 📚
 
 <a href="https://github.com/mlutfiariski/mlutfiariski.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mlutfiariski&repo=mlutfiariski.github.io&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mlutfiariski&repo=mlutfiariski.github.io&theme=light" />
 </a>
 <br>
 
